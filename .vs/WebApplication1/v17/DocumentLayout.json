@@ -3,23 +3,71 @@
   "WorkspaceRootPath": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A26FB4AA-2BBD-44E8-9934-A383EE70ABB2}|data\\Data.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A26FB4AA-2BBD-44E8-9934-A383EE70ABB2}|data\\Data.csproj|solutionrelative:data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2448BCEE-D20E-4DFE-B8A7-ECDC70A1807C}|services\\Service.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\services\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2448BCEE-D20E-4DFE-B8A7-ECDC70A1807C}|services\\Service.csproj|solutionrelative:services\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{628A2643-4A93-4485-9D3D-0603095F4B79}|WebApplication1\\Winery.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\webapplication1\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{628A2643-4A93-4485-9D3D-0603095F4B79}|WebApplication1\\Winery.csproj|solutionrelative:webapplication1\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A26FB4AA-2BBD-44E8-9934-A383EE70ABB2}|data\\Data.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26FB4AA-2BBD-44E8-9934-A383EE70ABB2}|data\\Data.csproj|solutionrelative:data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E32BA0C-A174-4C45-8EC0-1A682BF57896}|common\\Common.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\common\\models\\credentialstoauthenticatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E32BA0C-A174-4C45-8EC0-1A682BF57896}|common\\Common.csproj|solutionrelative:common\\models\\credentialstoauthenticatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E32BA0C-A174-4C45-8EC0-1A682BF57896}|common\\Common.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\common\\models\\wineforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E32BA0C-A174-4C45-8EC0-1A682BF57896}|common\\Common.csproj|solutionrelative:common\\models\\wineforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E32BA0C-A174-4C45-8EC0-1A682BF57896}|common\\Common.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\common\\models\\updatestockbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E32BA0C-A174-4C45-8EC0-1A682BF57896}|common\\Common.csproj|solutionrelative:common\\models\\updatestockbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E32BA0C-A174-4C45-8EC0-1A682BF57896}|common\\Common.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\common\\models\\userforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E32BA0C-A174-4C45-8EC0-1A682BF57896}|common\\Common.csproj|solutionrelative:common\\models\\userforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26FB4AA-2BBD-44E8-9934-A383EE70ABB2}|data\\Data.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\data\\entities\\wine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26FB4AA-2BBD-44E8-9934-A383EE70ABB2}|data\\Data.csproj|solutionrelative:data\\entities\\wine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26FB4AA-2BBD-44E8-9934-A383EE70ABB2}|data\\Data.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\data\\entities\\tasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26FB4AA-2BBD-44E8-9934-A383EE70ABB2}|data\\Data.csproj|solutionrelative:data\\entities\\tasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26FB4AA-2BBD-44E8-9934-A383EE70ABB2}|data\\Data.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\data\\repositories\\winerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26FB4AA-2BBD-44E8-9934-A383EE70ABB2}|data\\Data.csproj|solutionrelative:data\\repositories\\winerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26FB4AA-2BBD-44E8-9934-A383EE70ABB2}|data\\Data.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26FB4AA-2BBD-44E8-9934-A383EE70ABB2}|data\\Data.csproj|solutionrelative:data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2448BCEE-D20E-4DFE-B8A7-ECDC70A1807C}|services\\Service.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\services\\implementation\\wineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2448BCEE-D20E-4DFE-B8A7-ECDC70A1807C}|services\\Service.csproj|solutionrelative:services\\implementation\\wineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{628A2643-4A93-4485-9D3D-0603095F4B79}|WebApplication1\\Winery.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{628A2643-4A93-4485-9D3D-0603095F4B79}|WebApplication1\\Winery.csproj|solutionrelative:webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{628A2643-4A93-4485-9D3D-0603095F4B79}|WebApplication1\\Winery.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\webapplication1\\controllers\\winecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{628A2643-4A93-4485-9D3D-0603095F4B79}|WebApplication1\\Winery.csproj|solutionrelative:webapplication1\\controllers\\winecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628A2643-4A93-4485-9D3D-0603095F4B79}|WebApplication1\\Winery.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{628A2643-4A93-4485-9D3D-0603095F4B79}|WebApplication1\\Winery.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26FB4AA-2BBD-44E8-9934-A383EE70ABB2}|data\\Data.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26FB4AA-2BBD-44E8-9934-A383EE70ABB2}|data\\Data.csproj|solutionrelative:data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Francesco\\Desktop\\TUP\\Programaci\u00F3n Web - Backend\\TempLayersArquitectureAustral\\TempLayersArquitectureAustral\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -31,60 +79,12 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Francesco\\Desktop\\TUP\\Programaci\u00F3n Web - Backend\\TempLayersArquitectureAustral\\TempLayersArquitectureAustral\\Controllers\\SaleController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2448BCEE-D20E-4DFE-B8A7-ECDC70A1807C}|services\\Service.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\services\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2448BCEE-D20E-4DFE-B8A7-ECDC70A1807C}|services\\Service.csproj|solutionrelative:services\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A26FB4AA-2BBD-44E8-9934-A383EE70ABB2}|data\\Data.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A26FB4AA-2BBD-44E8-9934-A383EE70ABB2}|data\\Data.csproj|solutionrelative:data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{628A2643-4A93-4485-9D3D-0603095F4B79}|WebApplication1\\Winery.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{628A2643-4A93-4485-9D3D-0603095F4B79}|WebApplication1\\Winery.csproj|solutionrelative:webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A26FB4AA-2BBD-44E8-9934-A383EE70ABB2}|data\\Data.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\data\\repositories\\winerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A26FB4AA-2BBD-44E8-9934-A383EE70ABB2}|data\\Data.csproj|solutionrelative:data\\repositories\\winerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A26FB4AA-2BBD-44E8-9934-A383EE70ABB2}|data\\Data.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\data\\entities\\tasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A26FB4AA-2BBD-44E8-9934-A383EE70ABB2}|data\\Data.csproj|solutionrelative:data\\entities\\tasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A26FB4AA-2BBD-44E8-9934-A383EE70ABB2}|data\\Data.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\data\\entities\\wine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A26FB4AA-2BBD-44E8-9934-A383EE70ABB2}|data\\Data.csproj|solutionrelative:data\\entities\\wine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{628A2643-4A93-4485-9D3D-0603095F4B79}|WebApplication1\\Winery.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{628A2643-4A93-4485-9D3D-0603095F4B79}|WebApplication1\\Winery.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A26FB4AA-2BBD-44E8-9934-A383EE70ABB2}|data\\Data.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A26FB4AA-2BBD-44E8-9934-A383EE70ABB2}|data\\Data.csproj|solutionrelative:data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A26FB4AA-2BBD-44E8-9934-A383EE70ABB2}|data\\Data.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A26FB4AA-2BBD-44E8-9934-A383EE70ABB2}|data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{628A2643-4A93-4485-9D3D-0603095F4B79}|WebApplication1\\Winery.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{628A2643-4A93-4485-9D3D-0603095F4B79}|WebApplication1\\Winery.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E32BA0C-A174-4C45-8EC0-1A682BF57896}|common\\Common.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\common\\models\\credentialstoauthenticatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E32BA0C-A174-4C45-8EC0-1A682BF57896}|common\\Common.csproj|solutionrelative:common\\models\\credentialstoauthenticatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E32BA0C-A174-4C45-8EC0-1A682BF57896}|common\\Common.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\common\\models\\wineforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E32BA0C-A174-4C45-8EC0-1A682BF57896}|common\\Common.csproj|solutionrelative:common\\models\\wineforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E32BA0C-A174-4C45-8EC0-1A682BF57896}|common\\Common.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\common\\models\\userforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E32BA0C-A174-4C45-8EC0-1A682BF57896}|common\\Common.csproj|solutionrelative:common\\models\\userforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E32BA0C-A174-4C45-8EC0-1A682BF57896}|common\\Common.csproj|c:\\users\\francesco\\desktop\\tup\\vineria\\webapplication1\\common\\models\\updatestockbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E32BA0C-A174-4C45-8EC0-1A682BF57896}|common\\Common.csproj|solutionrelative:common\\models\\updatestockbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -117,60 +117,207 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "data\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\data\\Entities\\User.cs",
+              "RelativeToolTip": "data\\Entities\\User.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T01:03:41.473Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Programaci\u00F3n Web - Backend\\TempLayersArquitectureAustral\\Services\\Implementation\\ProductService.cs",
-              "RelativeDocumentMoniker": "..\\..\\Programaci\u00F3n Web - Backend\\TempLayersArquitectureAustral\\Services\\Implementation\\ProductService.cs",
-              "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Programaci\u00F3n Web - Backend\\TempLayersArquitectureAustral\\Services\\Implementation\\ProductService.cs",
-              "RelativeToolTip": "..\\..\\Programaci\u00F3n Web - Backend\\TempLayersArquitectureAustral\\Services\\Implementation\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "CredentialsToAuthenticateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\common\\Models\\CredentialsToAuthenticateDto.cs",
+              "RelativeDocumentMoniker": "common\\Models\\CredentialsToAuthenticateDto.cs",
+              "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\common\\Models\\CredentialsToAuthenticateDto.cs",
+              "RelativeToolTip": "common\\Models\\CredentialsToAuthenticateDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T19:45:43.137Z"
+              "WhenOpened": "2024-10-18T05:40:55.48Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "WineController.cs",
-              "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\WebApplication1\\Controllers\\WineController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WineController.cs",
-              "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\WebApplication1\\Controllers\\WineController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\WineController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAkwCgAAAAvAAAAAAAAAA==",
+              "Title": "WineForCreationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\common\\Models\\WineForCreationDto.cs",
+              "RelativeDocumentMoniker": "common\\Models\\WineForCreationDto.cs",
+              "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\common\\Models\\WineForCreationDto.cs",
+              "RelativeToolTip": "common\\Models\\WineForCreationDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T01:29:40.96Z"
+              "WhenOpened": "2024-10-17T00:42:56.26Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\WebApplication1\\Controllers\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AuthenticateController.cs",
+              "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\WebApplication1\\Controllers\\AuthenticateController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AuthenticateController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T01:30:19.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\services\\Implementation\\UserService.cs",
               "RelativeDocumentMoniker": "services\\Implementation\\UserService.cs",
               "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\services\\Implementation\\UserService.cs",
               "RelativeToolTip": "services\\Implementation\\UserService.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAowCsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowB8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T01:28:31.168Z"
+              "WhenOpened": "2024-10-17T01:28:31.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "UpdateStockByIdDto.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\common\\Models\\UpdateStockByIdDto.cs",
+              "RelativeDocumentMoniker": "common\\Models\\UpdateStockByIdDto.cs",
+              "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\common\\Models\\UpdateStockByIdDto.cs",
+              "RelativeToolTip": "common\\Models\\UpdateStockByIdDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:42:37.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserForCreationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\common\\Models\\UserForCreationDto.cs",
+              "RelativeDocumentMoniker": "common\\Models\\UserForCreationDto.cs",
+              "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\common\\Models\\UserForCreationDto.cs",
+              "RelativeToolTip": "common\\Models\\UserForCreationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:42:46.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Wine.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\data\\Entities\\Wine.cs",
+              "RelativeDocumentMoniker": "data\\Entities\\Wine.cs",
+              "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\data\\Entities\\Wine.cs",
+              "RelativeToolTip": "data\\Entities\\Wine.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwBUAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T01:00:18.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tasting.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\data\\Entities\\Tasting.cs",
+              "RelativeDocumentMoniker": "data\\Entities\\Tasting.cs",
+              "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\data\\Entities\\Tasting.cs",
+              "RelativeToolTip": "data\\Entities\\Tasting.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:59:36.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\data\\Repositories\\WineRepository.cs",
+              "RelativeDocumentMoniker": "data\\Repositories\\WineRepository.cs",
+              "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\data\\Repositories\\WineRepository.cs",
+              "RelativeToolTip": "data\\Repositories\\WineRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAArwCAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:33:57.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "data\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "data\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T01:08:27.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "WineService.cs",
               "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\services\\Implementation\\WineService.cs",
               "RelativeDocumentMoniker": "services\\Implementation\\WineService.cs",
               "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\services\\Implementation\\WineService.cs",
               "RelativeToolTip": "services\\Implementation\\WineService.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAArwDoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T18:14:21.92Z"
+              "WhenOpened": "2024-10-18T18:14:21.92Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\WebApplication1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\WebApplication1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIA4wA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T01:29:28.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WineController.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\WebApplication1\\Controllers\\WineController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WineController.cs",
+              "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\WebApplication1\\Controllers\\WineController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\WineController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T01:29:40.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:35:04.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Microsoft.NET.Sdk.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
@@ -183,19 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthenticateController.cs",
-              "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\WebApplication1\\Controllers\\AuthenticateController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AuthenticateController.cs",
-              "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\WebApplication1\\Controllers\\AuthenticateController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\AuthenticateController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAADwvyEAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T01:30:19.935Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 16,
               "Title": "ApplicationContext.cs",
               "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\data\\ApplicationContext.cs",
               "RelativeDocumentMoniker": "data\\ApplicationContext.cs",
@@ -207,7 +342,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Programaci\u00F3n Web - Backend\\TempLayersArquitectureAustral\\Services\\Implementation\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Programaci\u00F3n Web - Backend\\TempLayersArquitectureAustral\\Services\\Implementation\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Programaci\u00F3n Web - Backend\\TempLayersArquitectureAustral\\Services\\Implementation\\ProductService.cs",
+              "RelativeToolTip": "..\\..\\Programaci\u00F3n Web - Backend\\TempLayersArquitectureAustral\\Services\\Implementation\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:45:43.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Programaci\u00F3n Web - Backend\\TempLayersArquitectureAustral\\TempLayersArquitectureAustral\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "..\\..\\Programaci\u00F3n Web - Backend\\TempLayersArquitectureAustral\\TempLayersArquitectureAustral\\Controllers\\ProductController.cs",
@@ -219,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "SaleController.cs",
               "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Programaci\u00F3n Web - Backend\\TempLayersArquitectureAustral\\TempLayersArquitectureAustral\\Controllers\\SaleController.cs",
               "RelativeDocumentMoniker": "..\\..\\Programaci\u00F3n Web - Backend\\TempLayersArquitectureAustral\\TempLayersArquitectureAustral\\Controllers\\SaleController.cs",
@@ -231,91 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Tasting.cs",
-              "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\data\\Entities\\Tasting.cs",
-              "RelativeDocumentMoniker": "data\\Entities\\Tasting.cs",
-              "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\data\\Entities\\Tasting.cs",
-              "RelativeToolTip": "data\\Entities\\Tasting.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBMAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T00:59:36.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "WineRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\data\\Repositories\\WineRepository.cs",
-              "RelativeDocumentMoniker": "data\\Repositories\\WineRepository.cs",
-              "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\data\\Repositories\\WineRepository.cs",
-              "RelativeToolTip": "data\\Repositories\\WineRepository.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAIAywCAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T20:33:57.424Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\WebApplication1\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\WebApplication1\\Controllers\\UserController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAnwBoAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T01:29:28.611Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\data\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "data\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\data\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "data\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAWwBkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T01:08:27.381Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Wine.cs",
-              "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\data\\Entities\\Wine.cs",
-              "RelativeDocumentMoniker": "data\\Entities\\Wine.cs",
-              "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\data\\Entities\\Wine.cs",
-              "RelativeToolTip": "data\\Entities\\Wine.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAADwvw0AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T01:00:18.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T00:35:04.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\data\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "data\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\data\\Entities\\User.cs",
-              "RelativeToolTip": "data\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T01:03:41.473Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Data.csproj",
               "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\data\\Data.csproj",
               "RelativeDocumentMoniker": "data\\Data.csproj",
@@ -323,23 +386,12 @@
               "RelativeToolTip": "data\\Data.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-17T00:33:21.832Z"
+              "WhenOpened": "2024-10-17T00:33:21.832Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CredentialsToAuthenticateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\common\\Models\\CredentialsToAuthenticateDto.cs",
-              "RelativeDocumentMoniker": "common\\Models\\CredentialsToAuthenticateDto.cs",
-              "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\common\\Models\\CredentialsToAuthenticateDto.cs",
-              "RelativeToolTip": "common\\Models\\CredentialsToAuthenticateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T05:40:55.48Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\WebApplication1\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
@@ -350,40 +402,12 @@
               "WhenOpened": "2024-10-17T01:20:43.211Z"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "WineForCreationDto.cs",
-              "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\common\\Models\\WineForCreationDto.cs",
-              "RelativeDocumentMoniker": "common\\Models\\WineForCreationDto.cs",
-              "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\common\\Models\\WineForCreationDto.cs",
-              "RelativeToolTip": "common\\Models\\WineForCreationDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T00:42:56.26Z"
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UserForCreationDto.cs",
-              "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\common\\Models\\UserForCreationDto.cs",
-              "RelativeDocumentMoniker": "common\\Models\\UserForCreationDto.cs",
-              "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\common\\Models\\UserForCreationDto.cs",
-              "RelativeToolTip": "common\\Models\\UserForCreationDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T00:42:46.137Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "UpdateStockByIdDto.cs",
-              "DocumentMoniker": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\common\\Models\\UpdateStockByIdDto.cs",
-              "RelativeDocumentMoniker": "common\\Models\\UpdateStockByIdDto.cs",
-              "ToolTip": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\common\\Models\\UpdateStockByIdDto.cs",
-              "RelativeToolTip": "common\\Models\\UpdateStockByIdDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T00:42:37.078Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

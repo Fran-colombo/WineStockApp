@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gpe2JWQJU78=",
+  "dgSpecHash": "mSy4rCF4Kqo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineriaconchuda\\WebApplication1\\data\\Data.csproj",
+  "projectFilePath": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\data\\Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Francesco\\.nuget\\packages\\entityframework\\6.5.1\\entityframework.6.5.1.nupkg.sha512",
     "C:\\Users\\Francesco\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

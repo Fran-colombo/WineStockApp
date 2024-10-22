@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Francesco\\Desktop\\TUP\\Vineriaconchuda\\WebApplication1\\data\\Data.csproj": {}
+    "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\data\\Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Francesco\\Desktop\\TUP\\Vineriaconchuda\\WebApplication1\\common\\Common.csproj": {
+    "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineriaconchuda\\WebApplication1\\common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineriaconchuda\\WebApplication1\\common\\Common.csproj",
+        "projectPath": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\common\\Common.csproj",
         "packagesPath": "C:\\Users\\Francesco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineriaconchuda\\WebApplication1\\common\\obj\\",
+        "outputPath": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Francesco\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\Francesco\\Desktop\\TUP\\Vineriaconchuda\\WebApplication1\\data\\Data.csproj": {
+    "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineriaconchuda\\WebApplication1\\data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineriaconchuda\\WebApplication1\\data\\Data.csproj",
+        "projectPath": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\data\\Data.csproj",
         "packagesPath": "C:\\Users\\Francesco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineriaconchuda\\WebApplication1\\data\\obj\\",
+        "outputPath": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Francesco\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +90,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Francesco\\Desktop\\TUP\\Vineriaconchuda\\WebApplication1\\common\\Common.csproj": {
-                "projectPath": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineriaconchuda\\WebApplication1\\common\\Common.csproj"
+              "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\common\\Common.csproj": {
+                "projectPath": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\common\\Common.csproj"
               }
             }
           }

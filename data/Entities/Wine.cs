@@ -19,7 +19,7 @@ namespace Data.Entities
 
         public string Variety { get; set; } = string.Empty;
 
-        // Año de cosecha, debe ser un valor válido
+        [Range(0, 2024, ErrorMessage = "The vintage year must be between 0 and this year")]
         public int Year { get; set; }
 
 

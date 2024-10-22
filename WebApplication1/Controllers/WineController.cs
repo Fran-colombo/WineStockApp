@@ -14,7 +14,6 @@ namespace Winery.Controllers
     {
         private readonly WineService _wineServices;
 
-        // Un solo constructor que recibe ambas dependencias
         public WineController(WineService wineServices)
         {
             _wineServices = wineServices;
@@ -43,27 +42,7 @@ namespace Winery.Controllers
     }
 
 
-    //[HttpPost]
-    //    public IActionResult AddWine([FromBody] WineForCreationDto wineDTO, WineService wineServices)
-    //    {
-    //        if (wineDTO == null)
-    //        {
-    //            return BadRequest("Faltan datos");
-    //        }
-
-
-    //        var result = _wineServices.AddWine(wineDTO);
-
-    //        if (result == null)
-    //        {
-    //            return Conflict("El vino ya existe.");
-    //        }
-      
-
-    //    //.Wines.Add(result);
-    //        return Ok();
-    //    }
-    [HttpPost]
+   
     public IActionResult Add([FromBody] WineForCreationDto wineDto)
     {
 

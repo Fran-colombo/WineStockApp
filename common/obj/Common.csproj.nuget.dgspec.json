@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Francesco\\Desktop\\TUP\\Vineriaconchuda\\WebApplication1\\common\\Common.csproj": {}
+    "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\common\\Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Francesco\\Desktop\\TUP\\Vineriaconchuda\\WebApplication1\\common\\Common.csproj": {
+    "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineriaconchuda\\WebApplication1\\common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineriaconchuda\\WebApplication1\\common\\Common.csproj",
+        "projectPath": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\common\\Common.csproj",
         "packagesPath": "C:\\Users\\Francesco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineriaconchuda\\WebApplication1\\common\\obj\\",
+        "outputPath": "C:\\Users\\Francesco\\Desktop\\TUP\\Vineria\\WebApplication1\\common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Francesco\\AppData\\Roaming\\NuGet\\NuGet.Config",

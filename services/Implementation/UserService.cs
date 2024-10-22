@@ -29,7 +29,7 @@ namespace Service.Implementation
            Password = userDto.Password
 
          });
-        return newUser; //No terminado, así para que n ode error.
+        return newUser; 
       }
       else
       {

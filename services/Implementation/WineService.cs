@@ -38,7 +38,7 @@ namespace Service.Implementation
       }
       else
       {
-        throw new ArgumentException("The Wine already exists."); //que pingo va acá
+        throw new ArgumentException("The Wine already exists."); 
       }
 
     }
@@ -66,7 +66,7 @@ namespace Service.Implementation
     }
 
 
-    Wine? IWineService.GetWineByVarirety(string variety) //eh?
+    Wine? IWineService.GetWineByVarirety(string variety) 
     {
       throw new NotImplementedException();
     }

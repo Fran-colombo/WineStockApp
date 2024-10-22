@@ -11,7 +11,7 @@ namespace Data.Entities
     public class Tasting
 
     {
-    // fecha, nombre, vinos y lista de invitados (Lista de strings)
+   
     [Key]
     [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
     public int Id { get; set; }
