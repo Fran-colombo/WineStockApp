@@ -20,3 +20,15 @@ C:\Users\Francesco\Desktop\TUP\WebApplication1\common\obj\Debug\net8.0\Common.dl
 C:\Users\Francesco\Desktop\TUP\WebApplication1\common\obj\Debug\net8.0\refint\Common.dll
 C:\Users\Francesco\Desktop\TUP\WebApplication1\common\obj\Debug\net8.0\Common.pdb
 C:\Users\Francesco\Desktop\TUP\WebApplication1\common\obj\Debug\net8.0\ref\Common.dll
+C:\Users\Francesco\Desktop\TUP\Vineria\WebApplication1\common\bin\Debug\net8.0\Common.deps.json
+C:\Users\Francesco\Desktop\TUP\Vineria\WebApplication1\common\bin\Debug\net8.0\Common.dll
+C:\Users\Francesco\Desktop\TUP\Vineria\WebApplication1\common\bin\Debug\net8.0\Common.pdb
+C:\Users\Francesco\Desktop\TUP\Vineria\WebApplication1\common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francesco\Desktop\TUP\Vineria\WebApplication1\common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\Francesco\Desktop\TUP\Vineria\WebApplication1\common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\Francesco\Desktop\TUP\Vineria\WebApplication1\common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\Desktop\TUP\Vineria\WebApplication1\common\obj\Debug\net8.0\Common.sourcelink.json
+C:\Users\Francesco\Desktop\TUP\Vineria\WebApplication1\common\obj\Debug\net8.0\Common.dll
+C:\Users\Francesco\Desktop\TUP\Vineria\WebApplication1\common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\Francesco\Desktop\TUP\Vineria\WebApplication1\common\obj\Debug\net8.0\Common.pdb
+C:\Users\Francesco\Desktop\TUP\Vineria\WebApplication1\common\obj\Debug\net8.0\ref\Common.dll
