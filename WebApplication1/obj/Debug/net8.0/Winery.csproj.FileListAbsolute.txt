@@ -1,0 +1,10 @@
+C:\Users\Francesco\Desktop\TUP\WebApplication1\WebApplication1\obj\Debug\net8.0\Winery.csproj.AssemblyReference.cache
+C:\Users\Francesco\Desktop\TUP\WebApplication1\WebApplication1\obj\Debug\net8.0\Winery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francesco\Desktop\TUP\WebApplication1\WebApplication1\obj\Debug\net8.0\Winery.AssemblyInfoInputs.cache
+C:\Users\Francesco\Desktop\TUP\WebApplication1\WebApplication1\obj\Debug\net8.0\Winery.AssemblyInfo.cs
+C:\Users\Francesco\Desktop\TUP\WebApplication1\WebApplication1\obj\Debug\net8.0\Winery.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\Desktop\TUP\WebApplication1\WebApplication1\obj\Debug\net8.0\Winery.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Francesco\Desktop\TUP\WebApplication1\WebApplication1\obj\Debug\net8.0\Winery.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Francesco\Desktop\TUP\WebApplication1\WebApplication1\obj\Debug\net8.0\Winery.dll
+C:\Users\Francesco\Desktop\TUP\WebApplication1\WebApplication1\obj\Debug\net8.0\refint\Winery.dll
+C:\Users\Francesco\Desktop\TUP\WebApplication1\WebApplication1\obj\Debug\net8.0\Winery.pdb
